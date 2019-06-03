@@ -1,0 +1,12 @@
+[submodule "sparrow"]
+	path = sparrow
+	url = git@github.com:qcscine/sparrow.git
+[submodule "core"]
+	path = core
+	url = git@github.com:qcscine/core.git
+[submodule "readuct"]
+	path = readuct
+	url = git@github.com:qcscine/readuct.git
+[submodule "utilities"]
+	path = utilities
+	url = git@github.com:qcscine/utilities.git
